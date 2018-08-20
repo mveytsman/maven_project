@@ -14,5 +14,10 @@
       <version>3.5.9</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>com.arthurnn</groupId>
+      <artifactId>cafe</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
 </project>

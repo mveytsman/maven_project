@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
-      <groupId>com.lucidworks.spark</groupId>
-      <artifactId>spark-solr</artifactId>
-      <version>3.5.9</version>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.1.2</version>
       <scope>test</scope>
     </dependency>
     <dependency>
